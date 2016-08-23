@@ -52,3 +52,17 @@ C:\Users\Jim\ZiwebCloud\Projects\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMac
 C:\Users\Jim\ZiwebCloud\Projects\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.exe
 C:\Users\Jim\ZiwebCloud\Projects\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.pdb
 C:\Users\Jim\ZiwebCloud\Projects\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.csprojResolveAssemblyReference.cache
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.exe.config
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.exe
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.pdb
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.exe
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.pdb
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.About.resources
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.EnigmaMachine.resources
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.InputMessage.resources
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.Properties.Resources.resources
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.SetPlugboard.resources
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.SetReflector.resources
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.SetRotor.resources
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.ViewSettings.resources
+C:\Users\jim\Source\Repos\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.csproj.GenerateResource.Cache

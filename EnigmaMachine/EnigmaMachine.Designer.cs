@@ -1348,11 +1348,11 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(352, 84);
+            this.label4.Location = new System.Drawing.Point(372, 84);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(133, 13);
             this.label4.TabIndex = 13;
-            this.label4.Text = "© Sgt Jim Booth 2014";
+            this.label4.Text = "© Jim Booth 2014";
             // 
             // EnigmaMachine
             // 
